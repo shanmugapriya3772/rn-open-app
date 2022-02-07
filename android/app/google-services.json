@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797932142481",
+    "project_id": "rncallkeep-32b66",
+    "storage_bucket": "rncallkeep-32b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797932142481:android:4839eafd9a53a649afa430",
+        "android_client_info": {
+          "package_name": "com.rncallkeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797932142481-mtsp4mtujed45omc1sg9ck7ip4824tuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGeu8LjYG_mkwAOFiwTNKgsiGKk-CP3pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797932142481-mtsp4mtujed45omc1sg9ck7ip4824tuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
